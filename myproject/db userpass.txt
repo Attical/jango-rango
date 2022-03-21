@@ -1,0 +1,3 @@
+username = kyle (or blank maybe)
+pass = kyleaddie123
+email = uni email
