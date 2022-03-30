@@ -1,0 +1,3 @@
+username = kyle
+password = my usual password (public github)
+email = uni email
